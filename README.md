@@ -12,4 +12,4 @@ Iniciando agora na área, estou cursando Ánalise e Desenvolvimento de Sistemas 
 
 ### Linguagens Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuYujiFujimoto&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuYujiFujimoto&layout=compact&theme=dark)
