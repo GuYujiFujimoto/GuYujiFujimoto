@@ -6,7 +6,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuYujiFujimoto&repo=Tik_Tok_Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuYujiFujimoto&repo=Tik_Tok_Project&theme=dark)](https://github.com/GuYujiFujimoto/Tik_Tok_Project)
 
 ### Linguagens Utilizadas
 
