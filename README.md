@@ -4,5 +4,4 @@ Iniciando agora na área, estou cursando Ánalise e Desenvolvimento de Sistemas 
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYujiFujimoto&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYujiFujimoto&show_icons=true&bg_color=black)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuYujiFujimoto&show_icons=true&theme=dark)
