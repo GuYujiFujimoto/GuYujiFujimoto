@@ -1,6 +1,4 @@
-### Olá Pessoal! 👋
-##### Sobre mim:
-Iniciando agora na área, estou cursando Ánalise e Desenvolvimento de Sistemas e focado em cada vez mais aprimorar o conhecimento!
+### Olá Pessoal! Me chamo Gustavo Yuji, Sejam Bem Vindos ao meu GitHub!
 
 ### Detalhes
 
