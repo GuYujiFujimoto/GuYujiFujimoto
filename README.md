@@ -10,7 +10,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuYujiFujimoto&repo=Projeto_Spiderverse&theme=dark)](https://github.com/GuYujiFujimoto/Projeto_Spiderverse)
 
-https://github.com/GuYujiFujimoto/Projeto_Spiderverse
 
 ### Linguagens Utilizadas
 
