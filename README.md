@@ -6,7 +6,6 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuYujiFujimoto&repo=Tik_Tok_Project&theme=dark)](https://github.com/GuYujiFujimoto/Tik_Tok_Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuYujiFujimoto&repo=Projeto_Spiderverse&theme=dark)](https://github.com/GuYujiFujimoto/Projeto_Spiderverse)
 
